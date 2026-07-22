@@ -42,7 +42,7 @@
 	- Azargon allowed himself to be arrested, sent Leroux to find me....
 
 As Leroux and Doc meet up again nearby Calliope, and are conversing, the sky darkens.
-- Two monstrous creatures, who look like monsters to the crowd, suddenly appear nearby!
+Two monstrous creatures, who look like monsters to the crowd, suddenly appear nearby!
 
 #### The Darkened Sky
 - Two foes are a frog-looking demons, the other are 8 ghouls, split into two groups!
