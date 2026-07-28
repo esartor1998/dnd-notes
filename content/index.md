@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Dungeons and Dragons Notes Page
 ---
+Please... I'm begging you not to view any of the pages that are in "Private Backstory" guys... Do not snoop on nobody's backstory please...
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Hello Connor
+Hiiii
