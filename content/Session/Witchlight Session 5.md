@@ -6,7 +6,7 @@
 - After a short battle of combat, and freshly full of rage, [[Azargon]] makes short work of the Hag, who appears to be a simulacrum of some powerful creature as snow begins to drip from it...
 - [[Leroux Whitelaw|Leroux]] is able to close the gap (after hearing that he is pregnant, and thus being full of rage) and finish the simulacrum off, with the assistance of [[Azargon]]'s new ability to cast a spell as an opportunity attack!
 
-Upon her death, the hag's simulacrum, she invites [[Azargon]] and [[Leroux Whitelaw|Leroux]] to the Crystal Palace!
+Upon her death, the hag's simulacrum, she invites [[Azargon]] and [[Leroux Whitelaw|Leroux]] to [[the Crystal Palace]]!
 
 - A group of wraiths and their army of spectres arrived as well, an army of spectres of children that [[Azargon]] was tricked into massacring...
 	- Of course they are made short work of them.

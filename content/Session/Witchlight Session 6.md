@@ -1,12 +1,12 @@
 ### Camping Outside the Gate to Prismeer
 
 When he was beating up that hag, like he was, [[Leroux Whitelaw|Leroux]] found an hourglass, marked with three areas where a centre dial can be pointed, labelled "past", "present" and "future". The item is broken, and the sand within is missing. [[Fionn Drake|Doc]] uses mend to aesthetically repair it, though we can tell that the item is still not truly repaired. 
-[[Azargon]] scans it and detects a school of magic he has never heard of before (chronurgy)...
+[[Azargon Magna|Azargon]] scans it and detects a school of magic he has never heard of before (chronurgy)...
 While fiddling with the object, trying to ascertain its value, a small amount of diamond dust falls out. The party suspects that it used to be entirely filled with the luxury substance at one point...
 
-At camp, [[Azargon]] and [[Fionn Drake|Doc]] discuss things. [[Azargon]] espouses his pyromancy, and fire, as the just, unfeeling tool which which it is right to incinerate the wicked. [[Fionn Drake|Doc]] speaks upon the teachings of his deity, the value of forgiveness and compassion, and the knowing the limits of those things.
+At camp, [[Azargon Magna|Azargon]] and [[Fionn Drake|Doc]] discuss things. [[Azargon Magna|Azargon]] espouses his pyromancy, and fire, as the just, unfeeling tool which which it is right to incinerate the wicked. [[Fionn Drake|Doc]] speaks upon the teachings of his deity, the value of forgiveness and compassion, and the knowing the limits of those things.
 
-<small>NOTE: I missed something about [[the deer]] being able to be inside a Pokeball?</small>
+NOTE: I missed something about [[Zybilna|the deer]] being able to be inside a Pokeball?
 
 The deer points out a large, illusionary mushroom nearby the camp. It will serve as our gate to Prismeer, for the week that the planes are joined together making such travel possible. 
 
@@ -23,3 +23,16 @@ After [[Azargon Magna|Azargon]]'s giant eagle form obtains another bald spot fro
 
 ### Heading to Thither
 [[Zybilna]] suggests that they head to the nearby city of Thither to regroup. Given the hag's impressive management practices, the settlement is much more like a hamlet than the Queen remembers.
+The somewhat-hostile inhabitants of the village inform the party that a Great Fire had occurred 400 years in the past, caused by "a freak amount of natural wildfire". [[Azargon]] uses his degree in geology to attempt to ascertain the age of the desert surrounding the town: the timeline matches exactly. However, the inhabitants don't remember having a major village leader in the past, which is something that [[Zybilna|Belle]] had remembered. [[Fionn Drake|Doc]] notices that there is a raven surveilling the party as they attempt to ascertain where they are in time and space while speaking to the villagers.
+
+As the party is deciding what to do with regards to the surveillance and confusion, [[Fionn Drake|Doc]] receives a sending in a mockingly-sweet voice:
+> "Oh why hello, my dearest nephew... I suppose you aren't going to take us up on our deal? Your friend [[Azargon Magna|Azargon]] should have received a note. Will you take me up on my offer or must I do something to those children? You have 24 hours..."
+
+While [[Fionn Drake|Doc]] does not recognize the sender, it is clear to him that they aren't lying about having met him. While saying "okay well obviously we're not doing that", [[Azargon Magna|Azargon]] dispels the surveillance raven, which he knows must have been a familiar of the Hags.
+- The party resolves to *not* go and see the hags in the central swamp immediately, but to tell them that they were "forthcoming", and to not harm the children while they are headed over.
+
+Heading into what is told to them to be "The Village Diviner"'s house, the party finds a crystal ball, which looks a bit different from the one that [[Azargon Magna|Azargon]] is familiar with.
+- "So, what brings you here? Have a seat..."
+Says the female Satyr Diviner to [[Azargon Magna|Azargon]]. He says that he seeks guidance in his quest to save some children, and casting detect magic upon her, he finds she is coated in non-schooled magic? She has never heard of hags before... She said that she made a bargain with an older lady who told her she could get to a better future (where she is now, a respected Diviner in the village of Thither). The cost was the occasionally she enters a deep black-out trance...
+- She Detect Thoughts on [[Azargon Magna|Azargon]], attempting to find out about time travel, and is shown a slideshow of the hags, their deeds, and what they did. She recognizes the hag [[Endolyn]], the skeletal [[Endolyn|Hag of the Future]], as the hag with which she made a deal at [[The Crystal Palace]].
+

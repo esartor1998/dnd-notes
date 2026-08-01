@@ -13,15 +13,15 @@
 - The therapy hag appeared to have no hostility towards me, but wanted my hand. Got "two of Smeckledorf's hands", told me that the cost of her services is yet to be known!
 - In those cards we find where the past was stored; while the past is exposed though invulnerable due to bargains and hidden memories (which she holds like horcruxes), the present likes to bond with her bargainers that ward her against all harm.
 - [[Fionn Drake|Doc]] received an in-depth fortune on the location of those who serve... someone?
-- The Omen provided [[The Feywild Omen's Telling|a prophecy]] to [[Doc]]
+- The Omen provided [[The Feywild Omen's Telling|a prophecy]] to [[Fionn Drake|Doc]]
 - Says she is "maybe" my real grandma, I don't believe it. She gave me a rainbow egg, which is cursed such that if it fails your teeth will rot out if you fail.
 	- Tells us that her name is "the little grandmother", or "the bone mother" (it was Baba Yaga)
 
 ### The Debrief
-- [[Azargon]] and [[Leroux Whitelaw|Leroux]] were assaulted by monstrosities that wielded elemental weaponry...
-- This even was preceded by [[Azargon]] interacting with a hideous creature; hostile-ly, which fled and sicced her monstrosities on them perhaps? It looked like a crushed cockroach.. possibly that hag that swan was cursed by.
+- [[Azargon Magna|Azargon]] and [[Leroux Whitelaw|Leroux]] were assaulted by monstrosities that wielded elemental weaponry...
+- This even was preceded by [[Azargon Magna|Azargon]] interacting with a hideous creature; hostile-ly, which fled and sicced her monstrosities on them perhaps? It looked like a crushed cockroach.. possibly that hag that swan was cursed by.
 - The crowd was fooled by the skill of the monstrosities... these monstrosities looked like guards to the crowd... [[Leroux Whitelaw|Leroux]] was winded by a skilled strike by a "guard" which was highly damaged.
-	- [[Azargon]] allowed himself to be arrested, sent [[Leroux Whitelaw|Leroux]] to find me....
+	- [[Azargon Magna|Azargon]] allowed himself to be arrested, sent [[Leroux Whitelaw|Leroux]] to find me....
 
 As [[Leroux Whitelaw|Leroux]] and [[Fionn Drake|Doc]] meet up again nearby Calliope, and are conversing, the sky darkens.
 Two monstrous creatures, who look like monsters to the crowd, suddenly appear nearby!
