@@ -18,4 +18,4 @@ The deer points out a large, illusionary mushroom nearby the camp. It will serve
 Immediately, the party is ambushed by a group of redcaps, who at first demand everything the party carries but then decide to try to charge them a toll. The party decides to simply walk away from the engagement, heading towards the palace.
 
 It would seem that the [[Rules of Prismeer]] have been perverted... by failing to steal from the redcaps, a colossus is sent as a punishment for the party, chasing us and attempting to eviscerate us with its 300ft disintegration beam. A voice cries out "stop! you have violated the law!".
-[[Zybilna|Belle]] confirms that the rules are perverted; the colossus only should have attacked in the case of an imminent threat! She also states that if the party were to come into the possession of a Flametongue and Frostbrand sword.
+[[Zybilna|Belle]] confirms that the rules are perverted; the colossus only should have attacked in the case of an imminent threat! She also states that if the party were to come into the possession of a Flametongue and Frostbrand sword, they would be able to defeat the destroy the cauldron which the hags hold dear.
