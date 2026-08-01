@@ -1,4 +1,4 @@
-- The Omen spoke thus to [[Fionn Drake|Doc]]:
+The Omen spoke thus to [[Fionn Drake|Doc]]:
 ### The Servants of the Hag of the Past
 - 6 of hearts: the lady of the past; strong but leaves her past open for those to meander in as if walking into a painted tapestry of the moment that once came. It appears this one represents the moment from whence it started. "You will find the ability to change this genesis moment of the past, in the past?" -> clarifies: *you can find this moment in "the most familiar place to them" or "the place where it all began"*
 - 3 of hearts: also represents the past. Sometimes the first bargain is the hardest one; you will find this one *deep within the rocky caverns of West Prismeer*, in the past.
