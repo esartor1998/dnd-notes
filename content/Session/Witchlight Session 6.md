@@ -6,7 +6,7 @@ While fiddling with the object, trying to ascertain its value, a small amount of
 
 At camp, [[Azargon]] and [[Fionn Drake|Doc]] discuss things. [[Azargon]] espouses his pyromancy, and fire, as the just, unfeeling tool which which it is right to incinerate the wicked. [[Fionn Drake|Doc]] speaks upon the teachings of his deity, the value of forgiveness and compassion, and the knowing the limits of those things.
 
-NOTE: I missed something about [[the deer]] being able to be inside a Pokeball?
+<small>NOTE: I missed something about [[the deer]] being able to be inside a Pokeball?</small>
 
 The deer points out a large, illusionary mushroom nearby the camp. It will serve as our gate to Prismeer, for the week that the planes are joined together making such travel possible. 
 
@@ -17,5 +17,9 @@ The deer points out a large, illusionary mushroom nearby the camp. It will serve
 [[Azargon]] steps into the portal first, arriving in a desert that does not seem to appear on the map... The [[Palace of Heart's Desires]] is visible, far in the distance. The hags are clearly not the best property managers in the business.
 Immediately, the party is ambushed by a group of redcaps, who at first demand everything the party carries but then decide to try to charge them a toll. The party decides to simply walk away from the engagement, heading towards the palace.
 
-It would seem that the [[Rules of Prismeer]] have been perverted... by failing to steal from the redcaps, a colossus is sent as a punishment for the party, chasing us and attempting to eviscerate us with its 300ft disintegration beam. A voice cries out "stop! you have violated the law!".
-[[Zybilna|Belle]] confirms that the rules are perverted; the colossus only should have attacked in the case of an imminent threat! She also states that if the party were to come into the possession of a Flametongue and Frostbrand sword, they would be able to defeat the destroy the cauldron which the hags hold dear.
+It would seem that the [[Rules of Prismeer]] have been perverted... by failing to steal from the redcaps, a colossus is sent as a punishment for the party, chasing us and attempting to eviscerate us with its 300ft disintegration beam. A voice cries out "stop! you have violated the law!". [[Zybilna|Belle]] confirms that the rules are perverted; the colossus only should have attacked in the case of an imminent threat!
+
+After [[Azargon Magna|Azargon]]'s giant eagle form obtains another bald spot from the incineration beam but does not go down [[Zybilna|the deer]] also states that if the party were to come into the possession of both a Flametongue and Frostbrand sword, they would be able to defeat the destroy the cauldron which the hags hold dear, and which is currently affecting the entire Seelie court. She knows of the location of these: the Flametongue would be in a cavern *deep under a lake* in the south of Prismeer, protected by a Balor; the Frostbrand will be hidden *deep within a cavernous mountain* in the east of Prismeer protected by a Goristro.
+
+### Heading to Thither
+[[Zybilna]] suggests that they head to the nearby city of Thither to regroup. Given the hag's impressive management practices, the settlement is much more like a hamlet than the Queen remembers.
