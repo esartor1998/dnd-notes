@@ -52,5 +52,15 @@ At the entrance of this cavern are a bunch of korreds, which look hostile. Time 
 #### Combat with the korreds
 - Korred 1 readies an action to attack, and says to the party: "this be our tunnel, we be looking for **gold**. Or **any metals**."
 - [[Azargon Magna]] foolishly informs them that there is a sword, and they try to bargain for one diamond for passage.
-	- A shillelagh strike is unleashed upon the creature for this foolish bargain.
+	- A shillelagh strike is unleashed upon the creature for this foolish bargain. Now, the party *needs* to get out of here, since this means that the construct will be appearing nearby soon...
 	- In the melee, Azargon is entangled the the korred's hair.
+	- It turns out these creatures can summon creatures which summon creatures, so the fight took a while... [[Fionn Drake|Doc]] makes good usage of his new reaction ability to work alongside [[Azargon Magna|Azargon]] to work through the frenetic mayhem at the cavern's maw. Several korreds were scalped and slaughtered, alongside their Galeb Durrs. But...
+- After some reflection, [[Azargon Magna|Azargon]] realizes that the party may have escalated the conflict a bit too excessively.
+
+### Inside the Cavern
+Rats and other creatures scurry about inside the mostly-empty cavern. Coming upon the end of the main chamber, the party encounters a bowl with a carving:
+> To enter, and retrieve the sword that you seek, cast one magic from each school into the bowl.
+
+Making short work of this task, with some assistance from [[Leroux Whitelaw|Leroux]], the heroes are able to enter, as the door creaks open to reveal a large chamber with an elevated platform, where the Flametongue sword still sits.
+
+As they enter the chamber, the party can hear footsteps calmly and slowly approaching from behind them. 
