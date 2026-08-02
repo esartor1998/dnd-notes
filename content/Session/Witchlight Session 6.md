@@ -42,3 +42,6 @@ On it, he sees conditions for what appears to be a contract of sorts.
 	- However, this is to be done through the Scrying orb (the crystal ball he has just nicked), which can track Endolyn regardless of what time or plane she is on. Otherwise the orb is a normal scrying orb.
 
 [[Azargon Magna|Azargon]] uses his teleport in order to quickly escape! He finds [[Zybilna|the deer]], whom has found some sprinklings of diamond dust. She leads him to the location of the dust, which is a location just around the edge of town.
+
+### First Foray to the [[Palace of Heart's Desires]]
+Flying up to the formerly-grand palace, the party notices an odd iridescent shimmering surrounding the entire palace... It reminds [[Fionn Drake|Doc]] of Manshoon's protections. [[Zybilna|Belle]] doesn't know exactly what it is but knows that whatever it is, it is high-level. Flying into the barrier transposes the person past the orb. It appears to be that the Palace both is and is not there; it has been transported to another demi-plane, at least in the present time.
