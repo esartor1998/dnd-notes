@@ -45,3 +45,12 @@ On it, he sees conditions for what appears to be a contract of sorts.
 
 ### First Foray to the [[Palace of Heart's Desires]]
 Flying up to the formerly-grand palace, the party notices an odd iridescent shimmering surrounding the entire palace... It reminds [[Fionn Drake|Doc]] of Manshoon's protections. [[Zybilna|Belle]] doesn't know exactly what it is but knows that whatever it is, it is high-level. Flying into the barrier transposes the person past the orb. It appears to be that the Palace both is and is not there; it has been transported to another demi-plane, at least in the present time.
+However, [[Azargon Magna|Azargon]] notes that since the lake is dried up, the party can attempt to obtain the Flametongue in the present time!
+Flying towards the huge, dried up lake crater, the party sees a massive mound, 80-100ft high. This would be the cavern that was mentioned; the cavern within which the Flametongue sword is stored.
+
+At the entrance of this cavern are a bunch of korreds, which look hostile. Time to scuffle!
+#### Combat with the korreds
+- Korred 1 readies an action to attack, and says to the party: "this be our tunnel, we be looking for **gold**. Or **any metals**."
+- [[Azargon Magna]] foolishly informs them that there is a sword, and they try to bargain for one diamond for passage.
+	- A shillelagh strike is unleashed upon the creature for this foolish bargain.
+	- In the melee, Azargon is entangled the the korred's hair.
