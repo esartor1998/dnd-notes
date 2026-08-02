@@ -64,3 +64,6 @@ Rats and other creatures scurry about inside the mostly-empty cavern. Coming upo
 Making short work of this task, with some assistance from [[Leroux Whitelaw|Leroux]], the heroes are able to enter, as the door creaks open to reveal a large chamber with an elevated platform, where the Flametongue sword still sits.
 
 As they enter the chamber, the party can hear footsteps calmly and slowly approaching from behind them. 
+
+[[Fionn Drake|Doc]] uses Divine Intervention to cast Hallow on the area, with the extra effect "Extradimensional Interference", warping the attempting-to-interfere hags about the place because they tried to interfere with the area. Further, the demon who was supposed to warp into the area via the Summon Demon spell from the Demonomicon, of which a page of the legendary book is placed under the pedestal upon which the sword is posted. 
+The hags attempt to report this insolence, but silence is cast upon their area. The two party members resolve to just beat them down while they're under silence. The hags can't affect the heroes while under silence, but the heroes also cannot exit the Hallow lest they face some non-verbal damage the hags can place upon them. So, [[Azargon Magna|Azargon]] casts plant growth to quarter their movespeed. They get toasted and roasted by the free spells.
