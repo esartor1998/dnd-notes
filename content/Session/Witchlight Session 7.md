@@ -24,4 +24,4 @@ They fight. Doc goes and mounts on Stubborn guy. Doc uses spirit guardian and te
 ---
 
 Having survived the encounter ([[Azargon Magna|Azargon]] just barely) the party debates: what should we do next? Eventually, they settle on **entering into the past**. [[Zybilna]] informs them of the time dilation effects of the hourglass they possess: time will not pass in the present when they are in other time-planes.
-They resolve to take out the diviners from the past in order to stunt the power of the [[Endolyn|Hag of the Future]].
+They resolve to take out the diviners from the past in order to stunt the power of the [[Endelyn Moongrave|Hag of the Future]].
