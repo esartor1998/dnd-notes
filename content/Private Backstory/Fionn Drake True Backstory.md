@@ -5,4 +5,4 @@
 		- her interventions in the attempt to do this is the reason that my mother ended up dying
 		- sister died well in advance
 			- baba yaga wanted someone with the strength/power of tasha (wizard, female), so the sister was the main target
-			- her children made a bargain with fionn in lieu of this, specifically the oldest, skibidi toilet was the pactmaker
+			- her children made a bargain with fionn in lieu of this, specifically the oldest, [[skibidi toilet]] was the pactmaker
