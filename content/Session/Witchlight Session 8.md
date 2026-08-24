@@ -1,4 +1,4 @@
-![[8tkubzgneyd01.png]]Before the session starts, [[Leroux Whitelaw|Leroux]] and [[Azargon Magna|Azargon]] do a little aqueous-potion swapping, and [[The Dungeon Master]] relays to us some important details about long-rest rules given the time travel.
+Before the session starts, [[Leroux Whitelaw|Leroux]] and [[Azargon Magna|Azargon]] do a little aqueous-potion swapping, and [[The Dungeon Master]] relays to us some important details about long-rest rules given the time travel.
 [[Azargon Magna|Azargon]] tried to roll the potion through the mirror-world mirror from the last session to change it, but it did **not** change, so, disappointed, we proceeded with our journey to the past.
 The team also determined that in total, they've spent *about 2 hours* in the present time, and that in terms of diamond dust, we have about 2.5 days of time in either the past or present for one diamond in [[Azargon Magna|Azargon]]'s inventory, and we're going to put in exactly day worth of time, leaving us 1.5 more days worth of time for that one diamond.
 
@@ -15,9 +15,10 @@ The paragon of subtlety, [[Azargon Magna|Azargon]] give bombs the dwarves when h
 Azargon gets hit by a deluge of crossbow arrows in self-defence from the dwarves, but soldiers on. He makes a mad dash as an eagle for the sword at the base of the mountain, retrieving it as he is urged to escape, he flies back up to the top of the mountain.
 
 ### The Totally Normal Painting
-During the pandemonium, [[Fionn Drake|Doc]] sees a strange painting of a hag offering a contract to some unidentified humanoid... being drawn to the painting, and touching it, he collapses unconscious, feeling as though his soul is being drawn into the world of this painting...
-He retains his mind, but physically becomes [[Aang]]. [[Leroux Whitelaw|Leroux]], seeing [[Fionn Drake|Doc]] collapse, goes to assist and tries to resist falling victim to that same panting. Feeling himself also drawn into this world, [[Leroux Whitelaw|Leroux]] similarly retains his mind, but becomes [[Zuuko]] in the painting's world.
+During the pandemonium, [[Fionn Drake|Doc]] sees a strange painting of an ice hag (who appears to be a younger [[Skibidi Toilet]]) offering a contract to some unidentified humanoid... being drawn to the painting, and touching it, he collapses unconscious, feeling as though his soul is being drawn into the world of this painting...
+He retains his mind, but physically becomes [[Aang]]. [[Leroux Whitelaw|Leroux]], seeing [[Fionn Drake|Doc]] collapse and finding that he was not breathing, goes to assist and tries to resist falling victim to that same panting. Feeling himself also drawn into this world, [[Leroux Whitelaw|Leroux]] similarly retains his mind, but becomes [[Zuuko]] in the painting's world.
 [[Azargon Magna|Azargon]] is completely flabbergasted. He tries to swoop up his compatriots with his talons, but also feels himself being pulled into the world of this painting... falling out of his wild-shape he becomes [[Toph]], a blind child.
 Fumbling around for a bit, the party is partially able to recognize themselves.
 
 ![[8tkubzgneyd01 1.png]]
+
