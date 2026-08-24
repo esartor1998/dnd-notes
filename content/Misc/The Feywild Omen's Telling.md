@@ -8,6 +8,7 @@ The Omen spoke thus to [[Fionn Drake|Doc]]:
 ### The Servants of the [[Bavlarna|Hag of the Present]]
 - King of diamonds: present in the present; you will find this *one hidden, acting amongst the townspeople nearest to the tower that predicts the future*
 	- Like "Weekend at Bernie's", a dead body that is propped up as if alive, living a waking dream
+	- === THIS ONE HAS BEEN FOUND, THEIR CRYSTAL BALL STOLEN! ===
 - Ace of hearts: this will be found *deep within the catacombs of the great palace that all of your hearts lie, (in the crystal part)*; be wary, they are still alive, but deep in a catatonic state...
 - 7 of clubs: says "summer", you will find this one in what was once *an abandoned, undeveloped island off the east coast, revealed in the future to be vibrant and full of life.*
 - 5 of spades: the future again. You see deep, near the coven, there is a swamp filled with frogs. *Deep within that bog, protected by some of the most vile green hags you can find this body laid to rest*, imagining again a future they desired more than anything else.
