@@ -40,3 +40,5 @@ We convince the priest to come along with us, but then we find out that he is on
 Easily defeating two polar bears on the way, the gang hears the creaking of the ice beneath them as they travel towards their ultimate fate...
 Another encounter befalls them, 1 winter wolf and 10 million wolves. Oh no!
 Anyways we bodied these freaks and then LEVELLED UP!
+We confront the hag, with the priest in tow ready to dispel a wall of ice at any time.
+We roll consistent damage against the hag, and ROAST her. She is defeated by a psychotic beatdown, and as she dies, she says to [[Fionn Drake|Doc]]'s spirit: "You... I know you! You're that witch's son!". Doc, of course, is flabberghasted. He believes she must have been talking about [[Aang]], though it nags at him how he seemed to recognize her face and voice.
