@@ -35,3 +35,4 @@ Walking up to what appears to be a funeral, the party finds that what's going on
 - Healing 100GP
 - Revival 2000GP
 This... is such an abysmal price. In a rage, and being reminded that he is blind again, Azargon tries to hit [[Fionn Drake|Doc]], but given that he is blind, he misses wildly.
+Finding the mayor and letting him know about the presence of the hag, the party wonders how he can help. Because we *did* find out who it is, we receive multiple Rings of Warmth from the mayor.
