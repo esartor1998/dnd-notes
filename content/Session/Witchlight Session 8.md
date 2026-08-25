@@ -35,4 +35,8 @@ Walking up to what appears to be a funeral, the party finds that what's going on
 - Healing 100GP
 - Revival 2000GP
 This... is such an abysmal price. In a rage, and being reminded that he is blind again, Azargon tries to hit [[Fionn Drake|Doc]], but given that he is blind, he misses wildly.
-Finding the mayor and letting him know about the presence of the hag, the party wonders how he can help. Because we *did* find out who it is, we receive multiple Rings of Warmth from the mayor.
+Finding the mayor and letting him know about the presence of the hag, the party wonders how he can help. Because we *did* find out who it is, we receive multiple Rings of Warmth, some class-specific items, and some healing potions from the mayor, and he tells us to go and ask the priest if he will come with us and cast Protection from Good and Evil when we arrive at this... death sentence island.
+We convince the priest to come along with us, but then we find out that he is only CR2, and we remember that we are indeed fucked.
+Easily defeating two polar bears on the way, the gang hears the creaking of the ice beneath them as they travel towards their ultimate fate...
+Another encounter befalls them, 1 winter wolf and 10 million wolves. Oh no!
+Anyways we bodied these freaks and then LEVELLED UP!
