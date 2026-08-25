@@ -22,3 +22,16 @@ Fumbling around for a bit, the party is partially able to recognize themselves.
 
 ![[8tkubzgneyd01 1.png]]
 
+Someone finds the party, and tells them that they had promised to help: strange things have been happening in this village, and now a young maiden has turned up dead. The victim had no obvious bite marks. Inspecting it further, Azargon determines that the maiden must have been killed by an intelligent creature. Shocked by their "detective skills", the man (who calls himself the mayor) provides the party with a badge to identify themselves as his private detectives.
+
+The party assures [[Leroux Whitelaw|Leroux]] that the best way to get back to his wife is to lead this investigation and solve the issue.
+Further investigating, the child seems to have been killed at the docks, late at night. We suspect that something lured the child to the docks at night.
+Azargon finds two sets of small footprints, near the body. The party figures there must be a witness, whom they could maybe ask something. They are told of a strange child, who plays with bones and whose parents were torn to shreds in the middle of the night. Not suspicious at all. The party goes to interrogate this child, who [[Azargon Magna|Azargon]] believes to be a hag: he knows this because he is aware of the way hags reproduce and become a copy of the hag at the age of 13.
+In an attempt to get the truth out of the hags, we anger her and she hits us with a wall of cold which traps us inside it. We reason that we cannot escape the wall in any way, being forced to wait it out. While trapped inside the wall, the hag flies away, and while we now know the culprit for sure, she's also definitely gone.
+Reluctantly, the party tells the blind [[Azargon Magna|Azargon]] where the hag flew off, but knowing that they cannot fight off the hag themselves, the party resolves to instead go and speak to the mayor and to tell that they *definitely* found the culprit.
+
+### The Funeral
+Walking up to what appears to be a funeral, the party finds that what's going on is instead some sort of funeral, instead of a funeral. They make fun of [[Azargon Magna|Azargon]] for being blind again, and then resolve to find the priest. They find a sign outside the church stating:
+- Healing 100GP
+- Revival 2000GP
+This... is such an abysmal price. In a rage, and being reminded that he is blind again, Azargon tries to hit [[Fionn Drake|Doc]], but given that he is blind, he misses wildly.
