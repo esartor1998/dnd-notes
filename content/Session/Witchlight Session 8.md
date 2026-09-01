@@ -34,11 +34,14 @@ Reluctantly, the party tells the blind [[Azargon Magna|Azargon]] where the hag f
 Walking up to what appears to be a funeral, the party finds that what's going on is instead some sort of funeral, instead of a funeral. They make fun of [[Azargon Magna|Azargon]] for being blind again, and then resolve to find the priest. They find a sign outside the church stating:
 - Healing 100GP
 - Revival 2000GP
+
 This... is such an abysmal price. In a rage, and being reminded that he is blind again, Azargon tries to hit [[Fionn Drake|Doc]], but given that he is blind, he misses wildly.
 Finding the mayor and letting him know about the presence of the hag, the party wonders how he can help. Because we *did* find out who it is, we receive multiple Rings of Warmth, some class-specific items, and some healing potions from the mayor, and he tells us to go and ask the priest if he will come with us and cast Protection from Good and Evil when we arrive at this... death sentence island.
 We convince the priest to come along with us, but then we find out that he is only CR2, and we remember that we are indeed fucked.
+
 Easily defeating two polar bears on the way, the gang hears the creaking of the ice beneath them as they travel towards their ultimate fate...
 Another encounter befalls them, 1 winter wolf and 10 million wolves. Oh no!
 Anyways we bodied these freaks and then LEVELLED UP!
+
 We confront the hag, with the priest in tow ready to dispel a wall of ice at any time.
 We roll consistent damage against the hag, and ROAST her. She is defeated by a psychotic beatdown, and as she dies, she says to [[Fionn Drake|Doc]]'s spirit: "You... I know you! You're that witch's son!". Doc, of course, is flabberghasted. He believes she must have been talking about [[Aang]], though it nags at him how he seemed to recognize her face and voice.
