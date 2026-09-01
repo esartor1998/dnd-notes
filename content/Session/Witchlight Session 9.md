@@ -1,6 +1,7 @@
 Flying away, from the gnome beasties that were serving the hag and trying to stash away the [[Iggwilv's Frostbrand Blade]], we see a cloud of smoke gathering above the more bustling town of [[Thistle]], but the party knows their last chance to re-obtain the [[Iggwillv's Flametongue Sword]] is dwindling, as they see the present-version of the sword flickering out of reality on [[Azargon Magna|Azargon]]'s back. 
 
-Paragraph about the state of the village and what we learned in the legend lore
+Pondering the current (thus past?) status of the sword, [[Azargon Magna|Azargon]] implores [[Leroux Whitelaw|Leroux]] cast Legend Lore on it; they find that it was once owned by Iggwilv, and held in a vault, but then moved to a cave under a lake... but then, he changes his mind, it actually has been taken to destroy the [[World Tree]].
+Looking downwards, the party also sees that a large party of burning skeletons seems to be razing the village below, which they recognize as [[Thistle]] from what they had seen in the Present.
 ### The Big Fight
 The party takes it upon themselves to save the civilians in the village which is currently being burned, having reasoned that the better option in regards to the sword is to simply camp the [[World Tree]] after dealing with the situation in the village, given what the Legend Lore cast by [[Leroux Whitelaw|Leroux]] informed them.
 
