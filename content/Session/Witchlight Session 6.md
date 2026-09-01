@@ -11,7 +11,8 @@ NOTE: I missed something about [[Zybilna|the deer]] being able to be inside a Po
 The deer points out a large, illusionary mushroom nearby the camp. It will serve as our gate to Prismeer, for the week that the planes are joined together making such travel possible. 
 
 ### Prismeer Map
-![prismeer_map](content/Images/prismeer_map.png)
+![prismeer map][../Images/prismeer_map.png]
+
 ### Arrival in Prismeer
 [[Azargon]] steps into the portal first, arriving in a desert that does not seem to appear on the map... The [[Palace of Heart's Desires]] is visible, far in the distance. The hags are clearly not the best property managers in the business.
 Immediately, the party is ambushed by a group of redcaps, who at first demand everything the party carries but then decide to try to charge them a toll. The party decides to simply walk away from the engagement, heading towards the palace.
