@@ -18,9 +18,9 @@ Azargon gets hit by a deluge of crossbow arrows in self-defence from the dwarves
 During the pandemonium, [[Fionn Drake|Doc]] sees a strange painting of an ice hag (who appears to be a younger [[Skibidi Toilet]]) offering a contract to some unidentified humanoid... being drawn to the painting, and touching it, he collapses unconscious, feeling as though his soul is being drawn into the world of this painting...
 He retains his mind, but physically becomes [[Aang]]. [[Leroux Whitelaw|Leroux]], seeing [[Fionn Drake|Doc]] collapse and finding that he was not breathing, goes to assist and tries to resist falling victim to that same panting. Feeling himself also drawn into this world, [[Leroux Whitelaw|Leroux]] similarly retains his mind, but becomes [[Zuuko]] in the painting's world.
 [[Azargon Magna|Azargon]] is completely flabbergasted. He tries to swoop up his compatriots with his talons, but also feels himself being pulled into the world of this painting... falling out of his wild-shape he becomes [[Toph]], a blind child.
-Fumbling around for a bit, the party is partially able to recognize themselves.
+Fumbling around for a bit, the party is partially able to recognize themselves in their strange new environment.
 
-![dugans hole map][../Images/dugans_hole_map.png]
+![dugans hole map](../Images/dugans_hole_map.png)
 
 Someone finds the party, and tells them that they had promised to help: strange things have been happening in this village, and now a young maiden has turned up dead. The victim had no obvious bite marks. Inspecting it further, Azargon determines that the maiden must have been killed by an intelligent creature. Shocked by their "detective skills", the man (who calls himself the mayor) provides the party with a badge to identify themselves as his private detectives.
 
