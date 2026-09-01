@@ -1,8 +1,10 @@
 The Omen spoke thus to [[Fionn Drake|Doc]]:
 ### The Servants of the [[Skibidi Toilet|Hag of the Past]]
+A very powerful hag, but her bargains being present make her vulnerable...
 - 6 of hearts: the lady of the past; strong but leaves her past open for those to meander in as if walking into a painted tapestry of the moment that once came. It appears this one represents the moment from whence it started. "You will find the ability to change this genesis moment of the past, in the past?" -> clarifies: *you can find this moment in "the most familiar place to them" or "the place where it all began", in the past*
 - 3 of hearts: also represents the past. Sometimes the first bargain is the hardest one; you will find this one *deep within the rocky caverns of West Prismeer*, in the past.
 	- Handled during the battle in the past for [[Iggwilv's Frostbrand Blade]]?
+	- (When the party was transformed into [[Aang]], [[Zuuko]], and [[Toph]])
 - 8 of spades: hearts and spades look alike, just like the past and the future; *in the future, in the tree that once was, the knowledge it contains, its knowledge locked off. The tree that should have been present in the present.*
 - 8 of hearts: another past; a lot within the past remains in the past. The past is as they say time bedrock, nothing can change what has already happened... *also the tree, in the past*
 - Ace of spades: you will not meet this one for a while; similar to the last one but in a more dangerous spot *deep within a place you will not be able to access upon reaching the present, within the place where crystals reflect your image, in the present*.
