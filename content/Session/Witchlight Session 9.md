@@ -11,3 +11,4 @@ We then combo the hag, who futilely attempts to chain lightning and induce madne
 Azargon then again "fights fire with fire" by creating a controlled burn to stop the forest fire from spreading beyond the range initially started by the skeletons.
 
 #### After the Big Fight
+Following the chaos, an old man approaches us and thanks us for saving the market district. He casually offers the party the Greatclub of Certain Death, which [[Azargon Magna|Azargon]] takes. He says he doesn't know anything about the hag whom attacked us, but he does know that he really appreciates the new rulership of [[Skibidi Toilet]], who has recently killed the previous leader of the village and now rules over them because I suppose that's just how rulership works in this society? She is currently residing in the [[Palace of Heart's Desires]], away from the people she rules which is actually much more similar to rulership as we know it on the Material Plane. 
