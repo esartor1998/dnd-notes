@@ -1,0 +1,1 @@
+"The town close to where many arrive"? "The closest village"? [[Zybilna|Belle]] seems to know the mayor of the town, at least in the Past.

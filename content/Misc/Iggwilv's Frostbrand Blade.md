@@ -1,0 +1,1 @@
+This blade was held in the present in a mountainside cavern; some hags tried to take it out of the cavern to prevent us from having obtained it in the future (again, guarded by a balor in that cave), but we intercepted the hag and saw her get eviscerated by the balor.
