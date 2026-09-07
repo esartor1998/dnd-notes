@@ -18,6 +18,6 @@ Crashing into the tree ([Soren](../Characters/Soren.md) hanging on, barely), she
 
 ![briochebane-in-painting](../Images/034-02-007.happy-briochebane-npc.png)
 
-[Azargon](../Characters/Azargon%20Magna.md) and [Leroux](../Characters/Leroux%20Whitelaw.md) notice a painting, depicting a candy cottage, with a young-looking golden dragon making some sort of bargain with [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md).
+[Azargon](../Characters/Azargon%20Magna.md) and [Leroux](../Characters/Leroux%20Whitelaw.md) notice a painting (which they believe to always have been there), depicting a candy cottage, with a young-looking golden dragon making some sort of bargain with [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md).
 
 ![candy-cottage image](../Images/candy-cottage.png)
