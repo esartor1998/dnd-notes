@@ -1,0 +1,5 @@
+The party receives a description of the events going down at the Tree of Knowledge: a Gold Dragon (allegedly named Briochebane) circles the tree, on apparent lookout, while [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md) hacks at the tree with the [Iggwilv's Flametongue Sword](../Misc/Iggwilv's%20Flametongue%20Sword.md), attempting to topple it...
+
+Looking into the Pokeball we own, [Azargon](../Characters/Azargon%20Magna.md) notices... it somehow contains [Soren](../Characters/Soren.md)?
+[Azargon](../Characters/Azargon%20Magna.md) admits that he forgot that his companion was in there, but encourages his friend to escape the crystal given the... dire vision they just received.
+They catch him up to speed, and attempt to plan an approach to this treacherous scenario.

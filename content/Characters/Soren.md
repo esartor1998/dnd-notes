@@ -1,0 +1,1 @@
+A Harper who has been coaching [Azargon](Azargon%20Magna.md) on surviving his addiction to self-inflicted pain.
