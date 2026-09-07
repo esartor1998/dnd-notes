@@ -11,7 +11,13 @@ The plan is as follows:
 
 Soren's song momentarily reminds the dragon of her separation from "Phil", but it's only a temporary effect. During her temporary lucidity, the dragon breathes her breath weapon upon the hag's adds, killing them all instantly. The hag notices that something terrible has happened, but the rest of the party takes the eruption of sound from the start of combat as their signal to drop.
 
-The hag, coward she is, Dimension Doors away from us after taking an intense beatdown by [Leroux](../Characters/Leroux%20Whitelaw.md), driving her directly to near-death within 6 seconds. After she does, she morphs into a beautiful painting, showing a young [Doc](../Characters/Fionn%20Drake.md)-looking child meeting with a young black-haired child... she calls [Doc](../Characters/Fionn%20Drake.md) by his real name, concerning him greatly and confusing the rest of the party.
+The hag, coward she is, Dimension Doors away from us after taking an intense beatdown by [Leroux](../Characters/Leroux%20Whitelaw.md), driving her directly to near-death within 6 seconds. After she does, she morphs into a beautiful painting, showing a young [Doc](../Characters/Fionn%20Drake.md)-looking child meeting with a young black-haired child... she calls [Doc](../Characters/Fionn%20Drake.md) by his real name, concerning him greatly and confusing the rest of the party. This painting then disapparates.
 
 Amidst this chaos, [Soren](../Characters/Soren.md) reminds the party that the dragon can re-light the tree with its fire breath, and that it could be possible to dispel whatever magic affects it. Putting his concerns aside, [Doc](../Characters/Fionn%20Drake.md) dispels the magic upon the dragon, whom loses her mind. She then attempts to propel herself directly into the tree, crying out for "Phil", while [Soren](../Characters/Soren.md) attempts to convince her **not** to destroy the tree, though he burns a legendary resistance to try to rend the [Tree of Knowledge](../Locations/Prismeer/Tree%20of%20Knowledge.md) out of existence.
 Crashing into the tree ([Soren](../Characters/Soren.md) hanging on, barely), she immediately gives up, appearing to be in despair.
+
+![briochebane-in-painting](../Images/034-02-007.happy-briochebane-npc.png)
+
+[Azargon](../Characters/Azargon%20Magna.md) and [Leroux](../Characters/Leroux%20Whitelaw.md) notice a painting, depicting a candy cottage, with a young-looking golden dragon making some sort of bargain with [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md).
+
+![candy-cottage image](../Images/candy-cottage.png)
