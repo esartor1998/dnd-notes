@@ -8,7 +8,7 @@ At camp, [[Azargon Magna|Azargon]] and [[Fionn Drake|Doc]] discuss things. [[Aza
 
 NOTE: I missed something about [[Zybilna|the deer]] being able to be inside a Pokeball?
 
-The deer points out a large, illusionary mushroom nearby the camp. It will serve as our gate to Prismeer, for the week that the planes are joined together making such travel possible. 
+[The deer](../Characters/NPCs/Zybilna.md) points out a large, illusionary mushroom nearby the camp. It will serve as our gate to Prismeer, for the week that the planes are joined together making such travel possible. 
 
 ### Prismeer Map
 ![prismeer map](../Images/prismeer_map.png)
@@ -21,7 +21,7 @@ It would seem that the [[Rules of Prismeer]] have been perverted... by failing t
 
 After [[Azargon Magna|Azargon]]'s giant eagle form obtains another bald spot from the incineration beam but does not go down [[Zybilna|the deer]] also states that if the party were to come into the possession of both a Flametongue and Frostbrand sword, they would be able to defeat the destroy the cauldron which the hags hold dear, and which is currently affecting the entire Seelie court. She knows of the location of these: the Flametongue would be in a cavern *deep under a lake* in the south of Prismeer, protected by a Balor; the Frostbrand will be hidden *deep within a cavernous mountain* in the east of Prismeer protected by a Goristro.
 
-### Heading to Thistle
+### Heading to [Thistle](../Locations/Prismeer/Thistle.md)
 [[Zybilna]] suggests that they head to the nearby city of [[Thistle]] to regroup. Given the hag's impressive management practices, the settlement is much more like a hamlet than the Queen remembers.
 The somewhat-hostile inhabitants of the village inform the party that a Great Fire had occurred 400 years in the past, caused by "a freak amount of natural wildfire". [[Azargon]] uses his degree in geology to attempt to ascertain the age of the desert surrounding the town: the timeline matches exactly. However, the inhabitants don't remember having a major village leader in the past, which is something that [[Zybilna|Belle]] had remembered. [[Fionn Drake|Doc]] notices that there is a raven surveilling the party as they attempt to ascertain where they are in time and space while speaking to the villagers.
 
@@ -34,8 +34,8 @@ While [[Fionn Drake|Doc]] does not recognize the sender, it is clear to him that
 Heading into what is told to them to be "The Village Diviner"'s house, the party finds a crystal ball, which looks a bit different from the one that [[Azargon Magna|Azargon]] is familiar with.
 - "So, what brings you here? Have a seat..."
 Says the female Satyr Diviner to [[Azargon Magna|Azargon]]. He says that he seeks guidance in his quest to save some children, and casting detect magic upon her, he finds she is coated in non-schooled magic? She has never heard of hags before... She said that she made a bargain with an older lady who told her she could get to a better future (where she is now, a respected Diviner in the village of [[Thistle]]). The cost was the occasionally she enters a deep black-out trance...
-- She Detects Thoughts on [[Azargon Magna|Azargon]], attempting to find out about time travel, and is shown a slideshow of the hags, their deeds, and what they did. She recognizes the hag [[Endelyn Moongrave]], the skeletal [[Endelyn Moongrave|Hag of the Future]], as the hag with which she made a deal at [[The Crystal Palace]]. Thinking back to [[The Feywild Omen's Telling|the prophecy he received]], Doc believes that this Satyr is a servant of that hag... 
-[[Fionn Drake|Doc]] lures the satyr to the edge of town, where he has set up Oakley to be dancing the Gangnam Style dance at the edge of town. The satyr and the rest of the townspeople are enraptured. He lies and tells them his name is Jake, while conversing with Oakley about him becoming a giant instead of tree. Meanwhile, Azargon swaps out the crystal ball with his own, which presumably *cannot* read into the future. He also finds a hidden, closed-off room where a draft is coming from. Inside of it, he finds a rough and worn-out piece of paper, which he obviously snoops on.
+- She Detects Thoughts on [[Azargon Magna|Azargon]], attempting to find out about time travel, and is shown a slideshow of the hags, their deeds, and what they did. She recognizes the hag [[Endelyn Moongrave]], the skeletal [[Endelyn Moongrave|Hag of the Future]], as the hag with which she made a deal at [[The Crystal Palace]]. Thinking back to [[The Feywild Omen's Telling|the prophecy he received]], [Doc](../Characters/Fionn%20Drake.md) believes that this Satyr is a servant of that hag... 
+[[Fionn Drake|Doc]] lures the satyr to the edge of town, where he has set up [Oakley](../Characters/Oakley%20Tree.md) to be dancing the Gangnam Style dance at the edge of town. The satyr and the rest of the townspeople are enraptured. He lies and tells them his name is Jake, while conversing with [Oakley Tree](../Characters/Oakley%20Tree.md) about him becoming a giant instead of tree. Meanwhile, [Azargon](../Characters/Azargon%20Magna.md) swaps out the crystal ball with his own, which presumably *cannot* read into the future. He also finds a hidden, closed-off room where a draft is coming from. Inside of it, he finds a rough and worn-out piece of paper, which he obviously snoops on.
 On it, he sees conditions for what appears to be a contract of sorts.
 - The entity will give her hte power to dictate her own future
 - Proviso: the power to manipulate the future could be used at any notice to assist [[Endelyn Moongrave]]
@@ -53,7 +53,7 @@ At the entrance of this cavern are a bunch of korreds, which look hostile. Time 
 - Korred 1 readies an action to attack, and says to the party: "this be our tunnel, we be looking for **gold**. Or **any metals**."
 - [[Azargon Magna]] foolishly informs them that there is a sword, and they try to bargain for one diamond for passage.
 	- A shillelagh strike is unleashed upon the creature for this foolish bargain. Now, the party *needs* to get out of here, since this means that the construct will be appearing nearby soon...
-	- In the melee, Azargon is entangled the the korred's hair.
+	- In the melee, [Azargon](../Characters/Azargon%20Magna.md) is entangled the the korred's hair.
 	- It turns out these creatures can summon creatures which summon creatures, so the fight took a while... [[Fionn Drake|Doc]] makes good usage of his new reaction ability to work alongside [[Azargon Magna|Azargon]] to work through the frenetic mayhem at the cavern's maw. Several korreds were scalped and slaughtered, alongside their Galeb Durrs. But...
 - After some reflection, [[Azargon Magna|Azargon]] realizes that the party may have escalated the conflict a bit too excessively.
 

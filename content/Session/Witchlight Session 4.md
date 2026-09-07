@@ -34,7 +34,7 @@ Two monstrous creatures, who look like monsters to the crowd, suddenly appear ne
 - Things became chaotic as the ghouls all scattered and went to kill varying groups of civilians. Also, one frog locked onto [[Fionn Drake|Doc]] and dealt catastrophic damage to him, leaving him nearly bloodied!
 - Chaos continued to ensue, a civilian was consumed by ghouls in the back corner, far from the saving influence of [[Leroux Whitelaw|Leroux]] or [[Fionn Drake|Doc]].
 - [[Leroux Whitelaw|Leroux]] entered a tent and disposed of some additional meddling ghouls with another beatdown.
-- [[Fionn Drake|Doc]] melted the right side ghouls with a well-positioned Dawn, and kept up the healing, saving Oakley and a white-red dice civilian.
+- [[Fionn Drake|Doc]] melted the right side ghouls with a well-positioned Dawn, and kept up the healing, saving [Oakley](../Characters/Oakley%20Tree.md) and a white-red dice civilian.
 - Three civilians have perished; 
 - Five more are killed in the further carnage, as [[Fionn Drake|Doc]] and [[Leroux Whitelaw|Leroux]] are unable to control the sheer mass of enemies on their own. Some guards arrive for assistance but are immediately killed by the frogs, [[Fionn Drake|Doc]] and [[Leroux Whitelaw|Leroux]] manage to slowly whittle away the dangers on the map but are out of their element in such a large battle with limited allies on their side.
 After finally cleaning up the last of the ghouls, a hag apparates in a strike of lightning with two Ghast Gravecallers alongside her. She doesn't look like either of the two hags we had heard of before: neither bug-eyed, nor the black-robed moon-masked aberration.
