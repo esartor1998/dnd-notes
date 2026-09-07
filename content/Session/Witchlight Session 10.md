@@ -9,4 +9,4 @@ The plan is as follows:
 2. The party waits for [Soren](../Characters/Soren.md)'s signal to dive-bomb the hag, if things are (or aren't) going well.
 3. They party lays a rapid beatdown upon the hag, before she can deal too much damage to them (or to the dragon, if Soren can convince it that burning down the [Tree of Knowledge](../Locations/Prismeer/Tree%20of%20Knowledge.md) is an evil thing to be doing).
 
-Soren's song momentarily reminds the dragon of their separation from "Phil", but it's only a temporary effect. During their temporary lucidity, the dragon breathes their breath weapon upon the hag's adds, killing them all instantly.
+Soren's song momentarily reminds the dragon of his separation from "Phil", but it's only a temporary effect. During his temporary lucidity, the dragon breathes his breath weapon upon the hag's adds, killing them all instantly. The hag notices that something terrible has happened, but the rest of the party takes the eruption of sound from the start of combat as their signal to drop.
