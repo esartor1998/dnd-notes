@@ -4,6 +4,8 @@ Looking into the Pokeball we own, [Azargon](../Characters/Azargon%20Magna.md) no
 [Azargon](../Characters/Azargon%20Magna.md) admits that he forgot that his companion was in there, but encourages his friend to escape the crystal given the... dire vision they just received.
 They catch him up to speed, and attempt to plan an approach to this treacherous scenario.
 
+### Preventing the Arson
+
 The plan is as follows:
 1. The entire party smoke-clouds, and stays on the dragon, excluding [Soren](../Characters/Soren.md), who directly Dimension Doors onto the dragon to convince her.
 2. The party waits for [Soren](../Characters/Soren.md)'s signal to dive-bomb the hag, if things are (or aren't) going well.
@@ -12,6 +14,7 @@ The plan is as follows:
 Soren's song momentarily reminds the dragon of her separation from "Phil", but it's only a temporary effect. During her temporary lucidity, the dragon breathes her breath weapon upon the hag's adds, killing them all instantly. The hag notices that something terrible has happened, but the rest of the party takes the eruption of sound from the start of combat as their signal to drop.
 
 The hag, coward she is, Dimension Doors away from us after taking an intense beatdown by [Leroux](../Characters/Leroux%20Whitelaw.md), driving her directly to near-death within 6 seconds. After she does, she morphs into a beautiful painting, showing a young [Doc](../Characters/Fionn%20Drake.md)-looking child meeting with a young black-haired child... she calls [Doc](../Characters/Fionn%20Drake.md) by his real name, concerning him greatly and confusing the rest of the party. This painting then disapparates.
+### Stopping the Dragon
 
 Amidst this chaos, [Soren](../Characters/Soren.md) reminds the party that the dragon can re-light the tree with its fire breath, and that it could be possible to dispel whatever magic affects it. Putting his concerns aside, [Doc](../Characters/Fionn%20Drake.md) dispels the magic upon the dragon, whom loses her mind. She then attempts to propel herself directly into the tree, crying out for "Phil", while [Soren](../Characters/Soren.md) attempts to convince her **not** to destroy the tree, though he burns a legendary resistance to try to rend the [Tree of Knowledge](../Locations/Prismeer/Tree%20of%20Knowledge.md) out of existence.
 Crashing into the tree ([Soren](../Characters/Soren.md) hanging on, barely), she immediately gives up, appearing to be in despair.
@@ -23,6 +26,7 @@ Crashing into the tree ([Soren](../Characters/Soren.md) hanging on, barely), she
 ![candy-cottage image](../Images/candy-cottage.png)
 
 ---
+### Turning into Plebians
 
 When the party comes to, they smell smoke and find themselves in [[Hubbleton]].
 Down the well-worn dirt roads, we see a bunch of farmers, crafters, and lumberjacks gathered around panicking: they are yelling "someone's inside!".
@@ -34,6 +38,8 @@ Investigating the pre-made hole, [Leroux](../Characters/Leroux%20Whitelaw.md) an
 Outside during this investigation, [Soren](../Characters/Soren.md) and [Azargon](../Characters/Azargon%20Magna.md) calm the crowd outside and look for any intelligence they may have. One (slightly insane-seeming) villager is pointing at the fire aggressively, insisting that it is foul play and was caused by a turtle. She says it "used its magical abilities" to "bite fire into existence". It "was an evil turtle indeed", but also "spectral and ghostly". Hearing this hogwash, [Soren](../Characters/Soren.md) casts Zone of Truth on the crowd to aid in the investigation. Upon this cast, the woman falls to the ground, intoxicated, and [Soren](../Characters/Soren.md) begins a more systematic investigation, interrogating each of the villagers in turn. Upon further investigation under the zone, they reveal that a strange woodland Golden Lizard ran from the woods and directly struck the cabin, from their observation. The lizard appears to love cinnamon buns, and always went to a local baker named "Phil" is known to produce the best cinnamon buns in town...
 The party assures the old woman, named Edith Applegart, that they will find justice for her. They decide that searching for this other sweets baker, named "Phil", would be the best possible course of action.
 
+### The Cinnamon Bun Store
+
 Heading down, just a little down the road, they find a cottage with a scenic smokestack rising out of it. There is a sign outside that says ""Phil"'s Bakery". Heading inside, [Soren](../Characters/Soren.md) sees sunlight filtering through the window, beautiful pastries and delicious-smelling cinnamon rolls line the walls. A dwarf with bushy eyebrows exits the kitchen, stocking the shelves with delicious-looking confections. 
 
 ![phil](../Images/phil.png)
@@ -42,3 +48,6 @@ They interrogate the man, [Soren](../Characters/Soren.md) playing good cop, [Doc
 He says that Briochebane is basically his child, and he is the reason the cinnamon buns are so good, as he knows a "special way" to replicate the fire. He likes to keep Briochebane a secret, since kids have been going missing around the village.
 
 Eventually, [Soren](../Characters/Soren.md) is able to convince Phil to admit that Briochebane is a "special gold dragon" and that he used to be a bandit of sorts (whom it turns out that the party has heard of). One day, when his party were robbing a vault precariously, they found a dragon egg and accidentally turned into his child when he hatched the egg. He believes that Bahamut blessed him with Briochebun as a blessing to improve his life and give him a second chance, and he fears that if people learn about the dragon that he would be taken away by the army, or thieves.
+He thinks that Briochebane has gone north, and that he should help repair that old woman's store, but [Soren](../Characters/Soren.md) tries to convince him to come with the party instead.
+
+### Heading North to find the Dragon
