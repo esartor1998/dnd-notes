@@ -23,8 +23,6 @@ Crashing into the tree ([Soren](../Characters/Soren.md) hanging on, barely), she
 
 [Azargon](../Characters/Azargon%20Magna.md) and [Leroux](../Characters/Leroux%20Whitelaw.md) notice a painting, located inside the now-smashed area of the tree (which they believe to always have been there), depicting a candy cottage, with a young-looking golden dragon making some sort of bargain with [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md).
 
-![candy-cottage image](../Images/candy-cottage.png)
-
 ---
 ### Turning into Plebians
 
@@ -56,3 +54,7 @@ Beyond Hubbleton spreads a dense forest, thick of trees covered in moss with dan
 After 20 or so minutes, Phil leads us to the trail dotted with coloured candy gumdrops...
 
 The party, as usual, begins to fight about who is the fattest one in the party currently (in their new bodies) is, after Phil draws attention to "his big ol' tankard" when questioned about why he hasn't gone to this area. Common argument.
+
+The candy trail ends at a sprawling cottage deep in the woods, a melody of sweet smells wafting from it. A lot of candies decorate its exterior, and the whole thing is entirely made of candy. A peppermint tower rises in the back, and a red barn lies near the edge of the forest in the east, and an outhouse structured of candy exists in the north.
+
+![candy-cottage image](../Images/candy-cottage.png)
