@@ -51,3 +51,6 @@ Eventually, [Soren](../Characters/Soren.md) is able to convince Phil to admit th
 He thinks that Briochebane has gone north, and that he should help repair that old woman's store, but [Soren](../Characters/Soren.md) tries to convince him to come with the party instead.
 
 ### Heading North to find the Dragon
+
+Beyond Hubbleton spreads a dense forest, thick of trees covered in moss with dangling branches.
+After 20 or so minutes, Phil leads us to the trail dotted with coloured candy gumdrops...
