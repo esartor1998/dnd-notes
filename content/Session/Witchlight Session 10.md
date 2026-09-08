@@ -21,3 +21,10 @@ Crashing into the tree ([Soren](../Characters/Soren.md) hanging on, barely), she
 [Azargon](../Characters/Azargon%20Magna.md) and [Leroux](../Characters/Leroux%20Whitelaw.md) notice a painting, located inside the now-smashed area of the tree (which they believe to always have been there), depicting a candy cottage, with a young-looking golden dragon making some sort of bargain with [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md).
 
 ![candy-cottage image](../Images/candy-cottage.png)
+
+---
+
+When the party comes to, they smell smoke and find themselves in [[Hubbleton]].
+Down the well-worn dirt roads, we see a bunch of farmers, crafters, and lumberjacks gathered around panicking: they are yelling "someone's inside!".
+There is an older voice from within the burning candy shop, saying "heelp! help me!!", like that video with the Dairy Queen guy.
+Soren, in his new form as some type of fairy, manages to put out one half of the home, and then Leroux in his heroic new form dives into the flames, rescues the old woman, and makes it out alive. Azargon, in his new form, manages to control the water that Soren produced, fully putting out the shop afterwards. Doc's new form manages to uncork 4 gallons of beer and do not much else. 
