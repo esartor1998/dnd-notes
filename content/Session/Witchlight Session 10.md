@@ -54,3 +54,5 @@ He thinks that Briochebane has gone north, and that he should help repair that o
 
 Beyond Hubbleton spreads a dense forest, thick of trees covered in moss with dangling branches.
 After 20 or so minutes, Phil leads us to the trail dotted with coloured candy gumdrops...
+
+The party, as usual, begins to fight about who is the fattest one in the party currently (in their new bodies) is, after Phil draws attention to "his big ol' tankard" when questioned about why he hasn't gone to this area. Common argument.
