@@ -38,3 +38,4 @@ Heading down, just a little down the road, they find a cottage with a scenic smo
 
 ![phil](../Images/phil.png)
 
+They interrogate the man, [Soren](../Characters/Soren.md) playing good cop, [Doc](../Characters/Fionn%20Drake.md) playing bad cop, [Azargon](../Characters/Azargon%20Magna.md) playing "casting the friends spells and creating phlegm replicas of gold dragons that we are looking for that he appears to know more about".
