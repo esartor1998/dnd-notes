@@ -58,3 +58,7 @@ The party, as usual, begins to fight about who is the fattest one in the party c
 The candy trail ends at a sprawling cottage deep in the woods, a melody of sweet smells wafting from it. A lot of candies decorate its exterior, and the whole thing is entirely made of candy. A peppermint tower rises in the back, and a red barn lies near the edge of the forest in the east, and an outhouse structured of candy exists in the north.
 
 ![candy-cottage image](../Images/candy-cottage.png)
+
+Phil notes that the candy around them looks similar to that manufactured by Edith... how interesting. The party finds a half-eaten cinnamon bun just outside the front door and that the "fruit leather" rug in front of the door appears to be alive.
+Being ambushed by a fruit leather Rug of Smothering (and then having goblin [Azargon](../Characters/Azargon%20Magna.md) immediately eat it to death), they realize that the occupants of this house are for sure hostile... they convince Phil not to eat some of the very delicious-looking candy.
+The hallway ahead, lined with flour, contains a hidden peppermint tile trap, which goblin [Azargon](../Characters/Azargon%20Magna.md) triggers while being irate about being made fun of for his voice: a blast of candy flies through the air, striking the party for 14 bludgeoning damage on a failed save. Those who failed are also knocked prone and turned into candy. [Soren](../Characters/Soren.md) now becomes... a gingerbread fairy...
