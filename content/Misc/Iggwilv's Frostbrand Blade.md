@@ -1,1 +1,3 @@
 This blade was held in the present in a mountainside cavern; some hags tried to take it out of the cavern to prevent us from having obtained it in the future (again, guarded by a balor in that cave), but we intercepted the hag and saw her get eviscerated by the balor.
+
+Combined with the [Iggwilv's Flametongue Sword](Iggwilv's%20Flametongue%20Sword.md), it can be used to destroy the cauldron which is currently wreaking havoc upon the Feywild, blasting it with deadly magic.

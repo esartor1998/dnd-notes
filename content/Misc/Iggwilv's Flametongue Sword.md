@@ -1,1 +1,3 @@
 In the present, intitially, it was held under a lake for safekeeping and guarded by a balor. In the past, apparently, it was held in a vault in [[The Crystal Palace]], but was then taken by some party in a ploy to destroy the [[Tree of Knowledge]].
+
+Combined with the [Iggwilv's Frostbrand Blade](Iggwilv's%20Frostbrand%20Blade.md), it can be used to destroy the cauldron which is currently wreaking havoc upon the Feywild, blasting it with deadly magic.
