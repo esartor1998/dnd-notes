@@ -39,3 +39,6 @@ Heading down, just a little down the road, they find a cottage with a scenic smo
 ![phil](../Images/phil.png)
 
 They interrogate the man, [Soren](../Characters/Soren.md) playing good cop, [Doc](../Characters/Fionn%20Drake.md) playing bad cop, [Azargon](../Characters/Azargon%20Magna.md) playing "casting the friends spells and creating phlegm replicas of gold dragons that we are looking for that he appears to know more about".
+He says that Briochebane is basically his child, and he is the reason the cinnamon buns are so good, as he knows a "special way" to replicate the fire. He likes to keep Briochebane a secret, since kids have been going missing around the village.
+
+Eventually, [Soren](../Characters/Soren.md) is able to convince Phil to admit that Briochebane is a "special gold dragon" and that he used to be a bandit of sorts (whom it turns out that the party has heard of). One day, when his party were robbing a vault precariously, they found a dragon egg and accidentally turned into his child when he hatched the egg. He believes that Bahamut blessed him with Briochebun as a blessing to improve his life and give him a second chance, and he fears that if people learn about the dragon that he would be taken away by the army, or thieves.
