@@ -75,5 +75,5 @@ She agrees to "I, Gomley, will not stab you, for the rest of my days in Greyhawk
 
 ### Finale
 
-As the party's souls rise from their new bodies, [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md) is shocked to see that [Fionn](../Characters/Fionn%20Drake.md) is one of them... again, he has no idea how she recognizes him, though he is getting a bit more used to it. Returning to the past (present), the party finds that she has kept her word. Briochebane is no longer there, and the [Tree of Knowledge](../Locations/Prismeer/Tree%20of%20Knowledge.md) is unharmed! Big success. 
+As the party's souls rise from their new bodies, [Skibidi Toilet](../Characters/NPCs/Hourglass%20Coven/Skibidi%20Toilet.md) is shocked to see that [Fionn](../Characters/Fionn%20Drake.md) is one of them... again, he has no idea how she recognizes him, though he is getting a bit more used to it. Returning to the past (present), the party finds that she has kept her word. Briochebane is no longer there, and the [Tree of Knowledge](../Locations/Prismeer/Tree%20of%20Knowledge.md) is unharmed! Big success. Except that we still don't have the [[Iggwilv's Flametongue Sword|sword]], but that's a next week problem.
 
