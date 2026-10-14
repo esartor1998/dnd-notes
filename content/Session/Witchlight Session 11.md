@@ -20,6 +20,7 @@ Truly this must be a foolish being of sorts, as he really believes that [Azargon
 1. Collect "samples" from rooms with "radiation" (still not sure what that is, just that it's dangerous)
 2. Defeat some intrusive Vegepygmies that are no longer welcome
 3. Deal with the other invaders, the scouting parties of [Zybilna](../Characters/NPCs/Zybilna.md)
+4. Note all of the glitchy-ass androids on the first layer
 Sounds simple enough, right?
 Obviously, given the pressing nature of #3, the party decides the actively pursue the scouting parties in the ship. Each combat is fairly trivial, so I won't detail them in too much... detail.
 
