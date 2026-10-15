@@ -17,7 +17,7 @@ After this situation unfolds, the party regroups and heals, and [Doc](../Charact
 
 ### Meeting with [Aefelion](../Characters/NPCs/Aefelion.md)
 Truly this must be a foolish being of sorts, as he really believes that [Azargon](../Characters/Azargon%20Magna.md) is the leader of the party, basing his reasoning on our words and on his alphabetic prominence. Seeing that the party has arms and legs and is capable of following commands, he makes a deal with them. He may or may not have said he would benefit them, but in exchange for completing his tedium, the party will gain... something. His tasks are as follows:
-1. Collect "samples" from rooms with "radiation" (still not sure what that is, just that it's dangerous)
+1. Collect "samples" from 3 rooms with "radiation" (still not sure what that is, just that it's dangerous)
 2. Defeat some intrusive Vegepygmies that are no longer welcome
 3. Deal with the other invaders, the scouting parties of [Zybilna](../Characters/NPCs/Zybilna.md)
 4. Note all of the glitchy-ass androids on the first layer
