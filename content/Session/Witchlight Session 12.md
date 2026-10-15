@@ -41,3 +41,5 @@ The fight is tough, but [Leroux](../Characters/Leroux%20Whitelaw.md)'s incredibl
 - 2 sleep grenades
 - a 100 gold emerald
 - *a 100 gold diamond*
+
+Also the entire time this [Azargon](../Characters/Azargon%20Magna.md), who appeared to be staring at a wall motionless, was actually "investigating the teleportation ban".
