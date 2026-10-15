@@ -18,7 +18,7 @@ The robot checks, using a long proboscis finger, that we are not infected with t
 We weirdly also are able to tell that the robot just somehow did not feel the crash at all and still believes that we are deep in the astral sea, but the party is unable to ascertain the reason why.
 Remembering that he was supposed to grant the party a gift, and produces for them a suit of armour from a back room.
 
-![](../../Attachments/Pasted%20image%2020261014203010.png)
+![](https://media.discordapp.net/attachments/1510372905114927235/1560087263889850378/120-07-006.powered-armor.png?ex=6ad16ffc&is=6ad01e7c&hm=2eedb774f2d7256b82b41f47eaf0ccac42f2231b9624a8e08e85d9a1f13af1ea&=&format=webp&quality=lossless&width=448&height=1024)
 
 A very... odd-looking suit of armour at that. It is powered by energy cells and has quite a lot of additional perks, but [Leroux](../Characters/Leroux%20Whitelaw.md) is unwilling to equip it, and thus [Doc](../Characters/Fionn%20Drake.md) equips it.
 
