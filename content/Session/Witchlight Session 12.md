@@ -32,3 +32,12 @@ After finding a couple bodies in the base of the room, [Doc](../Characters/Fionn
 
 Heading into the kitchen below the room, [Soren](../Characters/Soren.md) finds a machine which has a display which matches with his keycard, interacting with the "egg salad sandwich" button on the machine allows him to obtain an incredibly mouldy sandwich, which he **still** eats, gaining 5 temporary ESSHP points (egg salad sandwich health points).
 The theatre is below this kitchen, and asking about their appearance finds that these "aliens", finds that they sound an awful lot like... mind flayers. They seem to have just suddenly appeared in the ship, but that's not something that we cannot deal with.
+
+Inside the theatre, they find two mind flayers inside the theatre, watching ET while wearing trench coats and bowler hats. The mind flayers seem fairly civilized, and so the party decides to peacefully watch ET with them, while they creep upon the party. Innocently, the party sits directly beside these mind flayers. Who are attempting to creep upon them; [Doc](../Characters/Fionn%20Drake.md) uses his action to inform [Soren](../Characters/Soren.md) that they're being predated on, as [Leroux](../Characters/Leroux%20Whitelaw.md) wakes up from his stupor and enters the room at the exact moment that the conflict is about to begin.
+The fight is tough, but [Leroux](../Characters/Leroux%20Whitelaw.md)'s incredible brawn allows him to absolutely CRUSH one of the two mind flayers, and he somehow also dodges multiple intelligence crippling affects which are affecting both [Soren](../Characters/Soren.md) and [Doc](../Characters/Fionn%20Drake.md). [Leroux](../Characters/Leroux%20Whitelaw.md) cleans up the scene quite handily, and the party finds some technology on the bodies of the flayers after the battle:
+- a green keycard,
+- a laser pistol with 5 shots left,
+- a 100 gold amethyst
+- 2 sleep grenades
+- a 100 gold emerald
+- *a 100 gold diamond*
