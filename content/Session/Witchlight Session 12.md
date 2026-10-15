@@ -34,12 +34,15 @@ Heading into the kitchen below the room, [Soren](../Characters/Soren.md) finds a
 The theatre is below this kitchen, and asking about their appearance finds that these "aliens", finds that they sound an awful lot like... mind flayers. They seem to have just suddenly appeared in the ship, but that's not something that we cannot deal with.
 
 Inside the theatre, they find two mind flayers inside the theatre, watching ET while wearing trench coats and bowler hats. The mind flayers seem fairly civilized, and so the party decides to peacefully watch ET with them, while they creep upon the party. Innocently, the party sits directly beside these mind flayers. Who are attempting to creep upon them; [Doc](../Characters/Fionn%20Drake.md) uses his action to inform [Soren](../Characters/Soren.md) that they're being predated on, as [Leroux](../Characters/Leroux%20Whitelaw.md) wakes up from his stupor and enters the room at the exact moment that the conflict is about to begin.
+
+![](https://media.discordapp.net/attachments/1343669175394107465/1560124400337166386/collage-maker-02-may-2023-05-24-pm-6705.png?ex=6ad19292&is=6ad04112&hm=7ad2e978a5493d2a3b3ba62bdfc4d963b2d8d50e147ebeccacc4c669880e4c9f&=&format=webp&quality=lossless)
+
 The fight is tough, but [Leroux](../Characters/Leroux%20Whitelaw.md)'s incredible brawn allows him to absolutely CRUSH one of the two mind flayers, and he somehow also dodges multiple intelligence crippling affects which are affecting both [Soren](../Characters/Soren.md) and [Doc](../Characters/Fionn%20Drake.md). [Leroux](../Characters/Leroux%20Whitelaw.md) cleans up the scene quite handily, and the party finds some technology on the bodies of the flayers after the battle:
 - a green keycard,
 - a laser pistol with 5 shots left,
-- a 100 gold amethyst
-- 2 sleep grenades
-- a 100 gold emerald
+- a 100 gold amethyst,
+- 2 sleep grenades,
+- a 100 gold emerald,
 - *a 100 gold diamond*
 
 Also the entire time this [Azargon](../Characters/Azargon%20Magna.md), who appeared to be staring at a wall motionless, was actually "investigating the teleportation ban".
