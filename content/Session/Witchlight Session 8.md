@@ -6,7 +6,7 @@ With that calculus out of the way, off we go to 400 years in the future!
 ### Initial Impressions of the Past
 Deciding to trigger the time-shift while flying above the cave on Azargon's eagle form, [[Fionn Drake|Doc]] witnesses the hourglass whir and become an attention-grabbing magical force to be reckoned with. Slapping the dial, the party witnesses the diamond dust begin to dissolve for an entire minute, before visions of the past begin to flash before their eyes: dwarven workers carrying things up a ladder near the cave, flickering and flickering until they become reality.
 From 600 feet up, the party notices that the pink lake surrounding [[Palace of Heart's Desires]] is now back! The forest surrounding things is finally back. [[Azargon Magna|Azargon]] thinks that the Hourglass Coven may be able to grab the swords before they can, but we don't really know what the rules are...
-[[Fionn Drake|Doc]] receives a sending message from [[Skibidi Toilet]], telling the party to meet her in the [[Palace of Heart's Desires]] (instead of the [[Bavlarna|Hag of the Present]]'s swamp meeting place). Strangely, horrifyingly, he recognizes this voice for some reason, but he keeps that to himself.
+[[Fionn Drake|Doc]] receives a sending message from [[Skibidi Toilet]], telling the party to meet her in the [[Palace of Heart's Desires]] (instead of the [[Bavlorna|Hag of the Present]]'s swamp meeting place). Strangely, horrifyingly, he recognizes this voice for some reason, but he keeps that to himself.
 
 ---
 

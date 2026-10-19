@@ -8,7 +8,7 @@ The Omen spoke thus to [[Fionn Drake|Doc]]:
 - 8 of spades: hearts and spades look alike, just like the past and the future; *in the future, in the tree that once was, the knowledge it contains, its knowledge locked off. The tree that should have been present in the present.*
 - 8 of hearts: another past; a lot within the past remains in the past. The past is as they say time bedrock, nothing can change what has already happened... *also the tree, in the past*
 - Ace of spades: you will not meet this one for a while; similar to the last one but in a more dangerous spot *deep within a place you will not be able to access upon reaching the present, within the place where crystals reflect your image, in the present*.
-### The Servants of the [[Bavlarna|Hag of the Present]]
+### The Servants of the [[Bavlorna|Hag of the Present]]
 > Her bargains make a bond that wards her from harm.
 - King of diamonds: present in the present; you will find this *one hidden, acting amongst the townspeople nearest to the tower that predicts the future*
 	- Like "Weekend at Bernie's", a dead body that is propped up as if alive, living a waking dream?

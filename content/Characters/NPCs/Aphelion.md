@@ -1,6 +1,7 @@
 ---
 aliases:
   - Elfie
+  - Aphelion 3000
 ---
 The central computer upon the ship that crashed in Past Prismeer; a being of wires and an artificial intelligence. Coming from a planet which was exhausted all of its resources on a mission to colonize another habitable planet with the humanoids aboard his ship.
 
