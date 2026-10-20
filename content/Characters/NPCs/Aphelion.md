@@ -11,3 +11,5 @@ His outward image in the past is a big large monitor with a large central blue e
 He believes that [Azargon](../Azargon%20Magna.md) is the highest ranked party member, our "leader" (because his name comes first alphabetically).
 
 Has issues with the Vegepygmies and mold aboard his ship, with radiation rooms, and with past-[Zybilna](Zybilna.md)'s scouting parties intruding.
+
+Malfunctioned and attempted to kill all living creatures on the ship using a bio weapon of its own design.
