@@ -14,7 +14,7 @@ After 8 litches (i.e., leaches) ambush us during the combat, Soren successfully 
 
 When opening the green key card door, we find a room full of bunnyoids. One of them stares at us from a stump.
 
-![](Attachments/bunnyoid.webp)
+![](images/bunnyoid.webp)
 
 It turns out the bunny is the stump. [[Soren]] scares it into letting us pass.
 
