@@ -11,11 +11,11 @@ Before leaving the ship, we kill the captain. We then loot the ship for:
 - 1 laser rifle
 - 1 needler pistol
 
-Doc also learns that when the ship was active, the cells were recharging. We can recharge a cell manually with 10,000 lightning damage (it doesn't have to be all at once).
+[Doc](../Characters/Fionn%20Drake.md) also learns that when the ship was active, the cells were recharging. We can recharge a cell manually with 10,000 lightning damage (it doesn't have to be all at once).
 
 We learn from [[Zybilna]] that the cauldron, when broken into eight pieces, can only be restored with the wish spell. When broken, hags lose access to coven magic.
 
-We meet [[Belvedeer]] the Bear outside the Palace of Heart's desires. He wants to be an elf, or maybe immortal.
+We meet [[Belvedeer]] the Bear outside the Palace of Heart's desires. He wants to be an elf, or maybe immortal, and [Azargon](../Characters/Azargon%20Magna.md) convinces him using his immense charm that there are in fact bear-like elves out there. A wholesome(?) conversation ensues.
 
 Entering the palace, there are eight framed paintings. There are chairs and benches for viewing. Five paintings on one side, three on the other. There is a statue with a plaque which says "In order to gain all knowledge, one must know where to start. Count on your enemies to reveal the source of the secret. This room is dedicated to the defeat of all monsters within."
 
@@ -28,3 +28,5 @@ Even patterns against all odd,
 a tile misplaced awakens its god.
 In proper order safely seal these four,
 or best one of each to open the door.
+
+-- Notes written by King [Soren](../Characters/Soren.md) the Magnanimous
