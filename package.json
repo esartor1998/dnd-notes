@@ -52,8 +52,8 @@
     "lightningcss": "^1.33.0",
     "micromorph": "^0.4.5",
     "minimatch": "^10.2.6",
-    "npm": "^12.2.0",
-    "preact": "^11.0.1",
+    "npm": "^12.2.1",
+    "preact": "^10.29.8",
     "preact-render-to-string": "^6.6.5",
     "pretty-bytes": "^7.2.0",
     "pretty-time": "^1.1.0",
@@ -85,5 +85,9 @@
     "prettier": "^3.9.10",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "@parcel/watcher@2.5.6": true
   }
 }
