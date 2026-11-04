@@ -10,7 +10,7 @@ Thinking "quickly", the party heads to the local infirmary. While thus also chec
 
 They enter into a sterile bay looming with two surgeon-looking bots, who immediately attempt to apprehend [Doc](../Characters/Fionn%20Drake.md) for "appendicitis surgery". He manages to blind one by reacting with the Robe of Scintillating Colours, but the other swiftly moves in to apprehend him, and they continue to insist that they are taking [Doc](../Characters/Fionn%20Drake.md) in for a legal surgery. [Soren](../Characters/Soren.md) fails to convince them that Doc is the head ship's doctor (because he is made of flesh). [Leroux](../Characters/Leroux%20Whitelaw.md) attempts to strike one, which causes it to cower in fear. Remembering that they were simply told to "check in", the party simply immediately leaves the medical bay. After this situation, we are sent an Antigravity Belt (a magical item which does not require attunement).
 
-![](https://cdn.discordapp.com/attachments/1510372905114927235/1560081047243456532/antigravity-belt-by-dave-melvin-from-quests-from-the-infinite-staircase.png?ex=6ad16a32&is=6ad018b2&hm=38541d0d1d18a6153f9e471b5fa8be4aba256c022858e0c522fc47d0818977ad)
+![](../Images/antigravity-belt-by-dave-melvin-from-quests-from-the-infinite-staircase.png)
 
 After finishing the radiation gathering task, they proceed back to the medical bay, and find cultures of some yellow mould, spilled upon the ground, and an obsessed android muttering that he must "find a cure", working on some cell cultures. He understands that whatever he is working on seems to have killed all the humans on the ship, not the crash. In fact, he does not remember any crash at all. Could this be how the vegepygmy mould got so bad? All of the humans aboard died much earlier? But how does the scientist not recall the crash...
 The mold is a respiratory infection, which shuts off the ability for the cells to breathe... [Doc](../Characters/Fionn%20Drake.md) is able to find the cure --- radiation --- with an incredibly lucky medicine check. So, we have a cure for that strange yellow mould, and... wait, are we all infected? Also, the vegepygmies must have been created by this mould... wow. So the infected's respiratory system fails and then they become a tribal society of mould borne of the infection.
@@ -18,7 +18,7 @@ The robot checks, using a long proboscis finger, that we are not infected with t
 We weirdly also are able to tell that the robot just somehow did not feel the crash at all and still believes that we are deep in the astral sea, but the party is unable to ascertain the reason why.
 Remembering that he was supposed to grant the party a gift, and produces for them a suit of armour from a back room.
 
-![](https://media.discordapp.net/attachments/1510372905114927235/1560087263889850378/120-07-006.powered-armor.png?ex=6ad16ffc&is=6ad01e7c&hm=2eedb774f2d7256b82b41f47eaf0ccac42f2231b9624a8e08e85d9a1f13af1ea&=&format=webp&quality=lossless&width=448&height=1024)
+![182](../Images/120-07-006.powered-armor.png)
 
 A very... odd-looking suit of armour at that. It is powered by energy cells and has quite a lot of additional perks, but [Leroux](../Characters/Leroux%20Whitelaw.md) is unwilling to equip it, and thus [Doc](../Characters/Fionn%20Drake.md) equips it.
 
@@ -36,7 +36,7 @@ The theatre is below this kitchen, and asking about their appearance finds that 
 
 Inside the theatre, they find two mind flayers inside the theatre, watching ET while wearing trench coats and bowler hats. The mind flayers seem fairly civilized, and so the party decides to peacefully watch ET with them, while they creep upon the party. Innocently, the party sits directly beside these mind flayers. Who are attempting to creep upon them; [Doc](../Characters/Fionn%20Drake.md) uses his action to inform [Soren](../Characters/Soren.md) that they're being predated on, as [Leroux](../Characters/Leroux%20Whitelaw.md) wakes up from his stupor and enters the room at the exact moment that the conflict is about to begin.
 
-![](https://media.discordapp.net/attachments/1343669175394107465/1560124400337166386/collage-maker-02-may-2023-05-24-pm-6705.png?ex=6ad19292&is=6ad04112&hm=7ad2e978a5493d2a3b3ba62bdfc4d963b2d8d50e147ebeccacc4c669880e4c9f&=&format=webp&quality=lossless)
+![](../Images/cineplex_aliens.jpg)
 
 The fight is tough, but [Leroux](../Characters/Leroux%20Whitelaw.md)'s incredible brawn allows him to absolutely CRUSH one of the two mind flayers, and he somehow also dodges multiple intelligence crippling affects which are affecting both [Soren](../Characters/Soren.md) and [Doc](../Characters/Fionn%20Drake.md). [Leroux](../Characters/Leroux%20Whitelaw.md) cleans up the scene quite handily, and the party finds some technology on the bodies of the flayers after the battle:
 - a green keycard,

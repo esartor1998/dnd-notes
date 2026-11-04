@@ -1,3 +1,6 @@
+After clearing the job, [[Aefelion]] speaks to us about the keycard which we picked up. He says he's "been looking for it for quite some time", and has been looking for that green key card. How does the ship's command system not simply have access to all the doors? We've seen him do this ourselves.
+[[Soren]] believes that there's some other reason that he may want this keycard than just that he's "been looking for it".
+
 [[Azargon Magna|Azargon]] rejoins the party, bringing 21 teleportation blockers^[They need to be set up in a circle, each within line of sight of each other. They create a cylinder of unspecified height in which teleportation is not possible.] with him. These were previously set up to prevent anyone from teleporting into the crashed spaceship. These will be useful to prevent the hags from fleeing.
 
 A helper robot gave us 8 [concussion grenades](https://5e.scrunko.monster/items.html#concussion%20grenade_qftis), 7 [sleep grenades](https://5e.scrunko.monster/items.html#sleep%20grenade_qftis), and 5 [smoke grenades](https://5e.scrunko.monster/items.html#smoke%20grenade_xdmg) in gratitude. Soren didn't give the green key card to the robot - instead choosing to hand it a minor-illusioned punch card.
