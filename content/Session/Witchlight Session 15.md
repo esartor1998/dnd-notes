@@ -9,4 +9,25 @@ To initiate combat, the wildfire spirit teleports the team's queen and king to t
 
 The king gets pummelled to bloody *as he planned*, unlocking his secret "beast mode" ability, which causes him to go "beast mode" and become more powerful than any other army. It does not work immediately, as he goes down, and then chaos ensues. Doc slides in, trades crowns, and hides in an advantageous dark tile. [[Azargon Magna|Azargon]] gets right up, burning with a raging fire, and goes on another rampage, alongside [[Leroux Whitelaw|Leroux]], demolishing all the enemy pieces in their way. The opposing king falls quickly, and then is revived by the queen. Then, we kick the shit out of the vampire and win the game easy peasy.
 
-The vampire foe we were facing is non-hostile; he tells us it has been a long while since he was bested. In fact, the last creature or person to beat him was the Great Witch Iggwilv, who trapped the vampire in his domain. This witch specializes in demonology, and specialises in Planar Binding (which is what binds the vampire to this puzzle). She also has a book re-counting fiends (1 fiend, 2 fiend). Just kidding, she has an autistic fascination with fiends. She could perhaps even know the true names of many fiends in her book.
+The vampire foe we were facing is non-hostile; he tells us it has been a long while since he was bested. In fact, the last creature or person to beat him was the Great Witch Iggwilv, who trapped the vampire in his domain. This witch specializes in demonology, and specializes in Planar Binding (which is what binds the vampire to this puzzle). She also has a book re-counting fiends (1 fiend, 2 fiend). Just kidding, she has an autistic fascination with fiends. She could perhaps even know the true names of many fiends in her book.
+
+The party then faces the worlds most difficult word scramble puzzle, featuring a 2e spell no one in the party has heard of.
+
+> TISMAINCINMONMNEU
+
+> I M P R I S O N M E N T
+
+> S U M M O N
+   T I A I C I N O N M N E U
+
+> M I N I M U S C O N T A I N M E N T
+
+Minimus containment?
+
+ChatGPT says:
+>BRO 💀 YOU GOT IT.
+ MINIMUS CONTAINMENT.
+ That's the one! It's an 8th-level form of the Binding spell in AD&D 2E.
+ It shrinks the target to roughly 1 inch and imprisons it inside a gemstone or similar object.
+ Source: [AD&D 2E Player's Handbook](https://files.spawningpool.net/docs/Vault2.0.-.TTRPG-Gamebooks/Dungeons%20%26%20Dragons%20%5Bmulti%5D/AD%26D%201e-2e%2C%20D%26D%2C%20OD%26D%20%28TSR%29/AD%26D%202e%20%28Selected%20Material%29/Player%27s%20Handbook%20Revised%20%28Premium%20Edition%29%20%282e%29.pdf).
+ You were right all along 😭
