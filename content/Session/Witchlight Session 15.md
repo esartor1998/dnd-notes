@@ -31,3 +31,6 @@ ChatGPT says:
  It shrinks the target to roughly 1 inch and imprisons it inside a gemstone or similar object.
  Source: [AD&D 2E Player's Handbook](https://files.spawningpool.net/docs/Vault2.0.-.TTRPG-Gamebooks/Dungeons%20%26%20Dragons%20%5Bmulti%5D/AD%26D%201e-2e%2C%20D%26D%2C%20OD%26D%20%28TSR%29/AD%26D%202e%20%28Selected%20Material%29/Player%27s%20Handbook%20Revised%20%28Premium%20Edition%29%20%282e%29.pdf).
  You were right all along 😭
+
+Then, accepting that spell and getting sent into the gem in front of them (which the party can see little people inside of), the party finds a sundial. The words about it say
+> The progress of day to night is natural, but certain actions can speed things up. If bright day encounters heat, then red sun shall appear and day will leave. If the sun should experience the cold of night, black night shall arrive and the sun will leave. Finally, if bright light hits the night, the day shall continue once more and the cycle shall continue.
