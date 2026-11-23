@@ -1,0 +1,1 @@
+The beginning of this session is the combat, with the Deadly Hag [[Skibidi Toilet]] which we encountered at the end of the last session.
